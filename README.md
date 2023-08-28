@@ -1,5 +1,5 @@
 ## course-online：基于Java的在线视频课程系统
-在线视频课程系统以提供编程课程、学习IT技能为设计目的，整合多所高校、多个平台的精品课程。首页显性地展示了系统所包含的全部课程，用户可点击主页、全部课程、关于我们和更多按钮显示不同的页面。
+在线视频课程系统以提供编程课程、学习IT技能为设计目的，整合多所高校、多个平台的精品课程。首页显性地展示了系统所包含的全部课程，用户可点击主页、全部课程、关于我们和更多按钮显示不同的页面。  
 在线视频课程系统首页
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/1.png">
@@ -52,13 +52,15 @@
 
 ## 后台管理系统
 <details>
-管理者登录界面
+管理者登录界面  
+ 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
 </picture>
-  后台管理系统首页
+  后台管理系统首页  
+  
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/22.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/22.png">
