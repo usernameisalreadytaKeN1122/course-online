@@ -54,7 +54,7 @@
 <details>
 管理者登录界面  
  
-<picture>
+ <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
