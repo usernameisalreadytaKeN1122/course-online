@@ -58,8 +58,10 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/21.png">
-</picture>
-  后台管理系统首页  
+</picture>  
+
+  后台管理系统首页    
+  
   
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/22.png">
@@ -70,8 +72,10 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/23.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/23.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/23.png">
-</picture>
-  用户管理界面
+</picture>  
+
+  用户管理界面  
+  
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/24.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/24.png">
@@ -82,26 +86,34 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/25.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/25.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/25.png">
-</picture>
-  资源管理界面
+</picture>  
+
+  资源管理界面  
+  
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/26.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/26.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/26.png">
-</picture>
-  角色管理界面
+</picture>  
+
+  角色管理界面  
+  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/27.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/27.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/27.png">
-</picture>
-  分类管理界面
+</picture>  
+
+  分类管理界面  
+  
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/28.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/28.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/28.png">
-</picture>
-  课程管理界面
+</picture>  
+
+  课程管理界面  
+  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/29.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/29.png">
@@ -111,32 +123,42 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/29.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/29.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/29.png">
-</picture>
-  讲师管理界面
+</picture>  
+
+  讲师管理界面  
+  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/31.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/31.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/31.png">
-</picture>
-  分类管理界面
+</picture>  
+
+  分类管理界面  
+  
   <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/32.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/32.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/32.png">
-</picture>
-  会员管理界面
+</picture>  
+
+  会员管理界面  
+  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/33.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/33.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/33.png">
-</picture>
- 短信管理界面
+</picture>  
+
+ 短信管理界面  
+ 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/34.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/34.png">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/34.png">
-</picture>
- 文件管理界面
+</picture>  
+
+ 文件管理界面  
+ 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/35.png">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/usernameisalreadytaKeN1122/course-online/blob/main/pic/35.png">
